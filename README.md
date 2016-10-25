@@ -35,7 +35,7 @@ I created a new [manifest.json](https://github.com/wbleonard/accs-wildfly/blob/m
         "runtime": {  
             "majorVersion": "8"  
         },  
-        "command": "java -jar -Dswarm.https.port=$PORT -Dswarm.context.path=helloworld target/wildfly-helloworld-swarm.jar"
+        "command": "java -jar -Dswarm.https.port=$PORT -Dswarm.context.path=/ target/wildfly-helloworld-swarm.jar"
 	} 
 
 
@@ -94,7 +94,7 @@ Other than the names of the Build Job and Deployment Configuration, these steps 
 
 ## 4. Use ##
 
-The application, although boring, is now running at [https://wildflyhelloworld-gse00001975.apaas.em2.oraclecloud.com/helloworld/HelloWorld](https://wildflyhelloworld-gse00001975.apaas.em2.oraclecloud.com/helloworld/HelloWorld):
+The application, although boring, is now running at [https://wildflyhelloworld-gse00001975.apaas.em2.oraclecloud.com/helloworld/HelloWorld](https://wildflyhelloworld-gse00001975.apaas.em2.oraclecloud.com/HelloWorld):
 
 ![](https://github.com/wbleonard/accs-wildfly/blob/master/images/HelloWorld.JPG)
 
