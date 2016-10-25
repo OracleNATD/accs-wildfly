@@ -94,7 +94,7 @@ Other than the names of the Build Job and Deployment Configuration, these steps 
 
 ## 4. Use ##
 
-The application, although boring, is now running at [https://wildflyhelloworld-gse00001975.apaas.em2.oraclecloud.com/helloworld/HelloWorld](https://wildflyhelloworld-gse00001975.apaas.em2.oraclecloud.com/HelloWorld):
+The application, although boring, is now running at [https://wildflyhelloworld-gse00001975.apaas.em2.oraclecloud.com/HelloWorld](https://wildflyhelloworld-gse00001975.apaas.em2.oraclecloud.com/HelloWorld):
 
 ![](https://github.com/wbleonard/accs-wildfly/blob/master/images/HelloWorld.JPG)
 
