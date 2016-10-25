@@ -96,7 +96,7 @@ Other than the names of the Build Job and Deployment Configuration, these steps 
 
 The application, although boring, is now running at [https://wildflyhelloworld-gse00001975.apaas.em2.oraclecloud.com/HelloWorld](https://wildflyhelloworld-gse00001975.apaas.em2.oraclecloud.com/HelloWorld):
 
-![](https://github.com/wbleonard/accs-wildfly/blob/master/images/HelloWorld.JPG)
+![](https://github.com/OracleNATD/accs-wildfly/blob/master/images/HelloWorld.JPG)
 
 As with my previous examples, any new commits to the repository will trigger a build and, if successful, a deploy. 
 
